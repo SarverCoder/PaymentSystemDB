@@ -3,4 +3,4 @@ Work with postgresql
 
 exmaple diagram
 
-![rasmbor](D:\temp\paymentsystemdb.png)
+![rasmbor](images\paymentsystemdb.png)
